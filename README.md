@@ -15,7 +15,7 @@ Currently seeking **PhD opportunities in psychophysiology and health psychology*
 
 ### Research
 
-**Computational Molecular Evolution** — Used AlphaFold2 to investigate protein structural adaptation in cave-adapted shrimp (*Palaemon antrorum*), comparing predicted structures and confidence metrics across surface and subterranean populations. Multivariate and gene-level analyses in R.
+**Computational Molecular Evolution** — Used AlphaFold2 to investigate protein structural adaptation in cave-adapted shrimp (*Typhlatya*), comparing predicted structures and confidence metrics across surface and subterranean populations. Multivariate and gene-level analyses in R.
 [updatedthesisnowlitreview-showcase](https://github.com/elalexnc/updatedthesisnowlitreview-showcase) — Manuscript, figures, and data tables
 
 **Psychophysiological Measurement** — Experience developing and documenting EEG and CES (cranial electrotherapy stimulation) protocols for research contexts, with focus on non-invasive approaches and historical apparatus review.
