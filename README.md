@@ -1,9 +1,9 @@
-# Alejandro Nunez Cardenas
+  # Alejandro Nunez Cardenas
 
 **Computational Biology · Psychophysiology · Applied Measurement**
 
 M.S. Biology (Computational Molecular Evolution) · Adjunct Professor, Texas A&M University-San Antonio  
-Psicoterapeuta Didactico Endocentrico, IIEPS · ~30 years clinical & research experience
+Psicoterapeuta Didactico Endocentrico, IIEPS · ~10 years clinical & research experience
 
 ---
 
@@ -31,7 +31,7 @@ Currently seeking **PhD opportunities in psychophysiology and health psychology*
 
 ### Teaching
 
-Anatomy & Physiology and General Biology at TAMU-SA. Active interest in Scholarship of Teaching and Learning (SOTL), particularly student engagement and distraction research.
+Anatomy & Physiology and General Biology at TAMU-SA.
 
 ### Tech
 
